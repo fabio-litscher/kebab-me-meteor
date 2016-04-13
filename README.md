@@ -1,2 +1,2 @@
-# kebab-wo-meteor
-kebab-wo is an app. To find kebab.
+# kebab-me-meteor
+kebab-me is an app. To find kebab.
